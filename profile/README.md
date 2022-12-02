@@ -18,7 +18,7 @@ Jeu ou vous devez jouer à un démineur à l'aide de la souris, en découvrant l
 
 C'est un simple jeu de clicker demandant à l'utilisateur d'éliminer des IST en cliquant de nombreuses fois dessus, dans un temps imparti. Plus l'utilisateur en élimine, plus il marque de points. Une fois la partie terminée, un petit message de prévention s'affiche contenant des statistiques sur les IST en France ou dans le monde. Un lien externe de documentation supplémentaire est également présent.
 
-- **MemeCapote**
+- **MemoCapote**
 
 C'est un jeu de mémory comme nous en avons tous fait enfant, sauf que cette fois il faut etre attentif a de petits détails, auquel une personne confrontée dans le vie réelle à cette situation devra etre attentive. En effet, de nombreux détails sont présents sur les préservatifs, tels que la date de péremption par exemple, et l'utilisateur doit essayer de s'y retrouver pour trouver les préservatifs ne présentant pas de danger à l'usage. Une fois sont choix fait, un message apparait en fonction de s'il à fait le bon choix ou non, et il à accès également à un leaderboard. Un lien externe de documentation supplémentaire est également présent.
 
